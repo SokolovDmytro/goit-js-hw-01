@@ -76,39 +76,39 @@
 // задание 5
 
 // const country = prompt('Укажите Вашу страну доставки');
-// let price
-// let message
+// let price;
+// let message;
 
 // if (country === null) {
 //     message = 'Отменено пользователем!';
 //     console.log(message);
 // }
 // switch (country.toLowerCase()) {
-//     case 'Китай':
+//     case 'китай':
 //         price = 100;
-//         message = "Доставка в " + country + " будет стоить " + price + " кредитов";
+//         message = " Доставка в " + country + " будет стоить " + price + " кредитов";
 //         break;
-//     case 'Чили':
+//     case 'чили':
 //         price = 250;
-//         message = "Доставка в " + country + " будет стоить " + price + " кредитов";
+//         message = " Доставка в " + country + " будет стоить " + price + " кредитов";
 //         break;
-//     case 'Австралия':
+//     case 'австралия':
 //         price = 170;
-//         message = "Доставка в " + country + " будет стоить " + price + " кредитов";
+//         message = " Доставка в " + country + " будет стоить " + price + " кредитов";
 //         break;
-//     case 'Индия':
+//     case 'индия':
 //         price = 80;
-//         message = "Доставка в " + country + " будет стоить " + price + " кредитов";
+//         message = " Доставка в " + country + " будет стоить " + price + " кредитов";
 //         break;
-//     case 'Ямайка':
+//     case 'ямайка':
 //         price = 120;
-//         message = "Доставка в " + country + " будет стоить " + price + " кредитов";
+//         message = " Доставка в " + country + " будет стоить " + price + " кредитов";
 //         break;
 
 //     default:
-//         message = 'В вашей стране доставка не доступна'
+//         message = 'В вашей стране доставка не доступна';
 // }
-// alert(message)
+// alert(message);
 
 // задание 6
 
